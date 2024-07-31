@@ -13,6 +13,7 @@ namespace ProjectPilot2.Controllers
         public IActionResult AboutUs()
         {
             return View();
+            
         }
     }
 }
